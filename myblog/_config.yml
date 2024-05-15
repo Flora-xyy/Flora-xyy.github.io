@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 
 # Jekyll configuration
 title: Your Site Title
 description: Your site description
 theme: jekyll-theme-minimal
+=======
+# Jekyll configuration
+title: Your Site Title
+description: Your site description
+theme: jekyll-theme-minimal
+>>>>>>> 8f33ebf (提交信息)
