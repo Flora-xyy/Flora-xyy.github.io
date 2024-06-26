@@ -1,12 +1,7 @@
 ---
 layout: post
-author: ted
+author: flora
 ---
-Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the
-edible berry of several species of woody vines in the genus Actinidia.
+In the journey of life, we always encounter various people. Some people are like passersby, fleeting without leaving a trace, while others, like stars, illuminate our path forward. For me, WYT is such a brilliant star. His appearance has made my world warmer and brighter.
 
-The most common cultivar group of kiwifruit is oval, about the size of
-a large hen's egg (5–8 cm (2.0–3.1 in) in length and 4.5–5.5 cm
-(1.8–2.2 in) in diameter). It has a fibrous, dull greenish-brown skin
-and bright green or golden flesh with rows of tiny, black, edible
-seeds. The fruit has a soft texture, with a sweet and unique flavor.
+Although I knew his name in sophomore year, we didn't really know each other well. We got to know each other better when we were in the same group for the course "Introduction to Robotics" in junior year. Since then, whenever there was a course requiring a team, we would always be in the same group. I was glad and happy that they helped me a lot, leaving a strong impression in my college life. WYT, especially, is a friendly and responsible person. He is devoted to his studies and homework, striving to meet the demands of his responsibilities. He is warm-hearted and thoughtful to his friends, and patient with details and routine work. He has given me a lot of help, especially in academics. Whenever I have some tedious or complicated questions, or my homework is wrong or I can't solve some problems, I would go to him for help. He would also try his best to give me answers, always helping me when I am anxious about my homework, solving some of my confusions and difficulties, and giving me practical advice. We started to get really close when we took the course "Virtual Reality" in the second semester of junior year. As time goes by, I found that he is not only a careful, gentle, and interesting person, but also a person who is organized and logical in his speech. We talked very well and shared many topics. I admire him a lot. His presence makes me feel happy and secure, and also makes me cherish this hard-won friendship more. Looking back at the days we spent together, I am glad to have encountered such a warm companion as WYT. His appearance has made my life more wonderful and beautiful.
